@@ -4,13 +4,25 @@
   
     
     <entry>
-      <title>你好，世界</title>
-      <link href="/2021/09/29/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C/"/>
-      <url>/2021/09/29/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C/</url>
+      <title>你好啊，等你好久了~</title>
+      <link href="/2021/09/29/%E4%BD%A0%E5%A5%BD%E5%95%8A/"/>
+      <url>/2021/09/29/%E4%BD%A0%E5%A5%BD%E5%95%8A/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="欢迎"><a href="#欢迎" class="headerlink" title="欢迎"></a>欢迎</h1><p>很高兴你能来阅读我的blog，我会在这里分享关于Minecraft服务器的教程<br>技术交流可以加入qq群117941212</p>]]></content>
       
       
+      <categories>
+          
+          <category> 闲聊 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 介绍 </tag>
+            
+        </tags>
       
     </entry>
     
